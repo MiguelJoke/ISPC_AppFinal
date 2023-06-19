@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512664600306",
+    "project_id": "ispcapp",
+    "storage_bucket": "ispcapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512664600306:android:c21b53dfaf5313b9161a6b",
+        "android_client_info": {
+          "package_name": "com.example.apptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512664600306-hsrub4jb1v3drllo43tg5n59fqcg6qc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg35YohDoU975CBTq2QKcqzeWqa58QZaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512664600306-hsrub4jb1v3drllo43tg5n59fqcg6qc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
